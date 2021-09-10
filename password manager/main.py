@@ -3,7 +3,7 @@ from tkinter import messagebox
 from random import choice, randint, shuffle
 import pyperclip
 
-# ---------------------------- PASSWORD GENERATOR ------------------------------- #
+# ---------------------------- PASSWORD GENERATOR NEW------------------------------- #
 
 #Password Generator Project
 def generate_password():
